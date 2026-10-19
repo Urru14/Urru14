@@ -7,13 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/urvashi-urvashi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0009-8799-0409"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-  <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Attack_on_Scholar-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:attackonscholar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>
@@ -22,18 +15,7 @@
 <!-- ========== ABOUT ========== -->
 ## 👩‍🔬 About me
 
-```python
-class Urvashi:
-    role       = "PhD Researcher, Swansea University 🇬🇧"
-    field      = "Chemical Engineering (Energy Innovation)"
-    research   = ["Na-ion solid electrolytes", "DFT"]
-    background = "MSc Physics (Gold Medalist) · GATE"
-    building   = "Attack on Scholar 🎓"
-    publishes  = "Urvashi Urvashi"
-
-    def say_hi(self):
-        return "Let's collaborate on batteries & DFT ✨"
-```
+<img src="./whoami.svg" width="100%" alt="whoami terminal"/>
 
 <!-- ========== RESEARCH ========== -->
 ## 🔬 What I work on
@@ -116,11 +98,24 @@ class Urvashi:
   <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </p>
 
+<img src="./contributions.svg" width="100%" alt="contributions terminal"/>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Urru14/Urru14/output/github-snake-dark.svg"/>
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Urru14/Urru14/output/github-snake.svg"/>
   </picture>
+</p>
+
+<!-- ========== LINKS ========== -->
+<img src="./links.svg" width="100%" alt="links terminal"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/urvashi-urvashi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0009-8799-0409"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Attack_on_Scholar-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:attackonscholar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- ========== FOOTER ========== -->

@@ -24,15 +24,15 @@
 
 ```python
 class Urvashi:
-    role        = "PhD Researcher · Chemical Engineering (Energy Innovation)"
-    university  = "Swansea University, UK 🇬🇧"
-    research    = ["Na-ion solid electrolytes", "ionic transport", "DFT"]
-    background  = "MSc Physics (Gold Medalist) · GATE qualified"
-    building    = "Attack on Scholar 🎓  →  research skills, made simple"
-    publishes_as = "Urvashi Urvashi"
+    role       = "PhD Researcher, Swansea University 🇬🇧"
+    field      = "Chemical Engineering (Energy Innovation)"
+    research   = ["Na-ion solid electrolytes", "DFT"]
+    background = "MSc Physics (Gold Medalist) · GATE"
+    building   = "Attack on Scholar 🎓"
+    publishes  = "Urvashi Urvashi"
 
     def say_hi(self):
-        return "Open to collaborations on batteries, DFT & research software ✨"
+        return "Let's collaborate on batteries & DFT ✨"
 ```
 
 <!-- ========== RESEARCH ========== -->
@@ -108,8 +108,8 @@ class Urvashi:
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&hide_rank=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA&hide=gnuplot,postscript"/>
 </p>
 
 <p align="center">

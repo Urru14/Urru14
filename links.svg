@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;}
+.f{opacity:0;animation:fi .25s ease forwards;}
+@keyframes fi{to{opacity:1}}
+.cur{animation:bl 1s step-end infinite;}
+@keyframes bl{50%{opacity:0}}
+
+</style>
+<rect x="1" y="1" width="898" height="94" rx="12" fill="#1a1b27" stroke="#2f3150" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H887 a12 12 0 0 1 12 12 V36 H1 Z" fill="#24253a"/>
+<circle cx="22" cy="18.5" r="6" fill="#ff5f56"/><circle cx="42" cy="18.5" r="6" fill="#ffbd2e"/><circle cx="62" cy="18.5" r="6" fill="#27c93f"/>
+<text x="450.0" y="23" text-anchor="middle" font-size="13" fill="#565f89">urvashi@github: ~ — zsh</text>
+<text x="24" y="68" font-size="15" xml:space="preserve"><tspan fill="#9ece6a">urvashi@github</tspan><tspan fill="#7dcfff"> ~ </tspan><tspan fill="#c0caf5">$ </tspan></text>
+<clipPath id="cp68"><rect x="195.57" y="53" height="21" width="0"><animate attributeName="width" from="0" to="92.3" begin="0.2s" dur="0.9s" fill="freeze" calcMode="discrete" values="0.0;9.0;18.1;27.1;36.1;45.1;54.2;63.2;72.2;81.3;90.3" keyTimes="0.0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1.0"/></rect></clipPath>
+<text x="195.57" y="68" font-size="15" fill="#A78BFA" clip-path="url(#cp68)" xml:space="preserve">./links.sh</text>
+<text class="f" style="animation-delay:1.3s" x="303.87" y="68" font-size="13" fill="#565f89"># find me around the internet ↓</text>
+<rect class="cur" x="289.87" y="55" width="8" height="16" fill="#c0caf5"/>
+</svg>

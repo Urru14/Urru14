@@ -15,7 +15,7 @@
 <!-- ========== ABOUT ========== -->
 ## 👩‍🔬 About me
 
-<img src="./whoami.svg" width="100%" alt="whoami terminal"/>
+<img src="./terminal-whoami-v2.svg" width="100%" alt="whoami terminal"/>
 
 <!-- ========== RESEARCH ========== -->
 ## 🔬 What I work on
@@ -98,7 +98,7 @@
   <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </p>
 
-<img src="./contributions.svg" width="100%" alt="contributions terminal"/>
+<img src="./terminal-contributions.svg" width="100%" alt="contributions terminal"/>
 
 <p align="center">
   <picture>
@@ -108,7 +108,7 @@
 </p>
 
 <!-- ========== LINKS ========== -->
-<img src="./links.svg" width="100%" alt="links terminal"/>
+<img src="./terminal-links.svg" width="100%" alt="links terminal"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/urvashi-urvashi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

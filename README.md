@@ -52,7 +52,8 @@
 | Project | What it does |
 |---|---|
 | 🧪 [**lab-tools**](https://github.com/Urru14/lab-tools) | Streamlit app with a stoichiometry calculator and XRD plotting tool for solid-state synthesis |
-| ⚛️ [**material-for-ljubljana-qe-summer-school**](https://github.com/Urru14/material-for-ljubljana-qe-summer-school-master) | Quantum ESPRESSO exercises and workflows |
+
+ Quantum ESPRESSO exercises and workflows |
 | 🧮 [**PHN-643 Numerical Analysis**](https://github.com/Urru14/PHN-643_Numerical-Analysis-Computer-Programming) | Numerical methods implemented in Python |
 | ☢️ [**PHN-624 Computational Nuclear Physics**](https://github.com/Urru14/PHN-624_Computational_Nuclear_Physics) | Computational nuclear physics codes in Fortran |
 | 🌐 [**Attack on Scholar**](https://attackonscholar.com) | Tutorials and lectures for early-career researchers |

@@ -1,72 +1,119 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Urvashi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Researcher%20·%20Energy%20Materials%20·%20Computational%20Science&descAlignY=58&descSize=16" width="100%"/>
+<!-- ========== BANNER ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Urvashi&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=PhD%20Researcher%20%E2%80%A2%20Energy%20Materials%20%E2%80%A2%20Computational%20Science&descSize=17&descAlignY=58" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FAF&center=true&vCenter=true&width=650&lines=Sodium-ion+solid+electrolytes+%F0%9F%94%8B;DFT+with+Quantum+ESPRESSO+%E2%9A%9B%EF%B8%8F;Python+tools+for+the+materials+lab+%F0%9F%A7%AA;Co-founder+%40+Attack+on+Scholar+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Designing+sodium-ion+solid+electrolytes+%F0%9F%94%8B;Simulating+materials+with+Quantum+ESPRESSO+%E2%9A%9B%EF%B8%8F;Building+Python+tools+for+the+lab+%F0%9F%A7%AA;Co-founder+%40+Attack+on+Scholar+%F0%9F%8E%93" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/urvashi-urvashi/"><img src="https://img.shields.io/badge/LinkedIn-Urvashi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0009-8799-0409"><img src="https://img.shields.io/badge/ORCID-0009--0009--8799--0409-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-  <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Website-attackonscholar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-@AttackonScholar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=555555&right_color=2c5364"/>
+  <a href="https://www.linkedin.com/in/urvashi-urvashi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0009-8799-0409"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Attack_on_Scholar-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:attackonscholar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>
+</p>
 
-### 👩‍🔬 About me
+<!-- ========== ABOUT ========== -->
+## 👩‍🔬 About me
 
-- 🎓 **PhD researcher** in Chemical Engineering (Energy Innovation) at **Swansea University, UK**
-- 🔋 Working on **sodium-ion conducting solid electrolytes** for next-generation batteries
-- ⚛️ Using **DFT (Quantum ESPRESSO)** and Python to connect structure, chemistry and ionic transport
-- 🥇 **MSc Physics**, University of Allahabad (Gold Medalist) · GATE qualified
-- 🎥 Co-founder of **[Attack on Scholar](https://attackonscholar.com)**, making research skills (like HPC) beginner-friendly
-- 📚 Publications appear under **Urvashi Urvashi**
+```python
+class Urvashi:
+    role        = "PhD Researcher · Chemical Engineering (Energy Innovation)"
+    university  = "Swansea University, UK 🇬🇧"
+    research    = ["Na-ion solid electrolytes", "ionic transport", "DFT"]
+    background  = "MSc Physics (Gold Medalist) · GATE qualified"
+    building    = "Attack on Scholar 🎓  →  research skills, made simple"
+    publishes_as = "Urvashi Urvashi"
 
----
+    def say_hi(self):
+        return "Open to collaborations on batteries, DFT & research software ✨"
+```
 
-### 🛠️ Tools & languages
+<!-- ========== RESEARCH ========== -->
+## 🔬 What I work on
 
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <a href="https://fortran-lang.org/"><img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white"/></a>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🔋 Energy materials</h3>
+      <p align="center">Sodium-ion conducting solid electrolytes for safer, next-generation batteries</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚛️ Simulation</h3>
+      <p align="center">DFT with Quantum ESPRESSO and pymatgen, run on HPC clusters</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎥 Teaching</h3>
+      <p align="center">Beginner-friendly lectures (like HPC) on the Attack on Scholar channel</p>
+    </td>
+  </tr>
+</table>
+
+<!-- ========== TECH STACK ========== -->
+## 🛠️ Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fortran,linux,bash,git,github,latex,md&theme=dark&perline=8"/></a>
+</p>
+
+<p align="center">
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-  <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/></a>
+  <a href="https://www.quantum-espresso.org/"><img src="https://img.shields.io/badge/Quantum_ESPRESSO-4B0082?style=flat-square&logo=atom&logoColor=white"/></a>
+  <a href="https://pymatgen.org/"><img src="https://img.shields.io/badge/pymatgen-1E88E5?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://slurm.schedmd.com/"><img src="https://img.shields.io/badge/HPC_/_Slurm-333333?style=flat-square&logo=linux&logoColor=white"/></a>
 </p>
 
-**Science stack:** Quantum ESPRESSO · pymatgen · HPC / Slurm · Gnuplot · XRD analysis · quantum computing (VQE / ADAPT)
+<!-- ========== PROJECTS ========== -->
+## 🚀 Featured projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/Urru14/lab-tools">lab-tools</a></h3>
+      <p>Streamlit app with a stoichiometry calculator and XRD plotting tool for solid-state synthesis.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://attackonscholar.com">Attack on Scholar</a></h3>
+      <p>Tutorials and lectures that make research skills easy for early-career researchers.</p>
+      <img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧮 <a href="https://github.com/Urru14/PHN-643_Numerical-Analysis-Computer-Programming">Numerical Analysis</a></h3>
+      <p>Numerical methods implemented from scratch in Python.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☢️ <a href="https://github.com/Urru14/PHN-624_Computational_Nuclear_Physics">Computational Nuclear Physics</a></h3>
+      <p>Computational nuclear physics codes in Fortran.</p>
+      <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-### 🚀 Featured projects
-
-| Project | What it does |
-|---|---|
-| 🧪 [**lab-tools**](https://github.com/Urru14/lab-tools) | Streamlit app with a stoichiometry calculator and XRD plotting tool for solid-state synthesis |
-| 🧮 [**PHN-643 Numerical Analysis**](https://github.com/Urru14/PHN-643_Numerical-Analysis-Computer-Programming) | Numerical methods implemented in Python |
-| ☢️ [**PHN-624 Computational Nuclear Physics**](https://github.com/Urru14/PHN-624_Computational_Nuclear_Physics) | Computational nuclear physics codes in Fortran |
-| 🌐 [**Attack on Scholar**](https://attackonscholar.com) | Tutorials and lectures for early-career researchers |
-
----
-
-### 📊 GitHub stats
+<!-- ========== STATS ========== -->
+## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </p>
 
 <p align="center">
@@ -76,12 +123,9 @@
   </picture>
 </p>
 
----
+<!-- ========== FOOTER ========== -->
+<p align="center">
+  <i>“Science is a way of thinking much more than it is a body of knowledge.”</i> — Carl Sagan
+</p>
 
-### 🤝 Let's connect
-
-Open to collaborations on **battery materials, DFT and research software**.
-
-📫 Reach Attack on Scholar at **attackonscholar@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>

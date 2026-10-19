@@ -80,26 +80,26 @@ class Urvashi:
     <td width="50%" valign="top">
       <h3>🧪 <a href="https://github.com/Urru14/lab-tools">lab-tools</a></h3>
       <p>Streamlit app with a stoichiometry calculator and XRD plotting tool for solid-state synthesis.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+      <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://attackonscholar.com">Attack on Scholar</a></h3>
       <p>Tutorials and lectures that make research skills easy for early-career researchers.</p>
-      <img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+      <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+      <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧮 <a href="https://github.com/Urru14/PHN-643_Numerical-Analysis-Computer-Programming">Numerical Analysis</a></h3>
       <p>Numerical methods implemented from scratch in Python.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>☢️ <a href="https://github.com/Urru14/PHN-624_Computational_Nuclear_Physics">Computational Nuclear Physics</a></h3>
       <p>Computational nuclear physics codes in Fortran.</p>
-      <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white"/>
+      <a href="https://fortran-lang.org/"><img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white"/></a>
     </td>
   </tr>
 </table>

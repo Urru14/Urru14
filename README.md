@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Designing+sodium-ion+solid+electrolytes+%F0%9F%94%8B;Simulating+materials+with+Quantum+ESPRESSO+%E2%9A%9B%EF%B8%8F;Building+Python+tools+for+the+lab+%F0%9F%A7%AA;Co-founder+%40+Attack+on+Scholar+%F0%9F%8E%93" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Sodium-ion+solid-state+electrolytes+%F0%9F%94%8B;Simulating+materials+with+Quantum+ESPRESSO+%E2%9A%9B%EF%B8%8F;Building+Python+tools+for+the+lab+%F0%9F%A7%AA;Co-founder+%40+Attack+on+Scholar+%F0%9F%8E%93" alt="Typing SVG"/>
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>

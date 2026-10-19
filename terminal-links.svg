@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;}
+.f{opacity:0;animation:fi .25s ease forwards;}
+@keyframes fi{to{opacity:1}}
+.cur{animation:bl 1s step-end infinite;}
+@keyframes bl{50%{opacity:0}}
+
+@keyframes k0{0%{opacity:0}4.444%{opacity:0}4.556%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k0{opacity:0;animation:k0 9.0s linear infinite}@keyframes k1{0%{opacity:0}5.778%{opacity:0}5.889%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k1{opacity:0;animation:k1 9.0s linear infinite}@keyframes k2{0%{opacity:0}7.111%{opacity:0}7.222%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k2{opacity:0;animation:k2 9.0s linear infinite}@keyframes k3{0%{opacity:0}8.444%{opacity:0}8.556%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k3{opacity:0;animation:k3 9.0s linear infinite}@keyframes k4{0%{opacity:0}9.778%{opacity:0}9.889%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k4{opacity:0;animation:k4 9.0s linear infinite}@keyframes k5{0%{opacity:0}11.111%{opacity:0}11.222%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k5{opacity:0;animation:k5 9.0s linear infinite}@keyframes k6{0%{opacity:0}12.444%{opacity:0}12.556%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k6{opacity:0;animation:k6 9.0s linear infinite}@keyframes k7{0%{opacity:0}13.778%{opacity:0}13.889%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k7{opacity:0;animation:k7 9.0s linear infinite}@keyframes k8{0%{opacity:0}15.111%{opacity:0}15.222%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k8{opacity:0;animation:k8 9.0s linear infinite}@keyframes k9{0%{opacity:0}16.444%{opacity:0}16.556%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k9{opacity:0;animation:k9 9.0s linear infinite}@keyframes k10{0%{opacity:0}21.111%{opacity:0}23.889%{opacity:1}88.889%{opacity:1}93.333%{opacity:0}100%{opacity:0}}.k10{opacity:0;animation:k10 9.0s linear infinite}
+</style>
+<rect x="1" y="1" width="898" height="94" rx="12" fill="#1a1b27" stroke="#2f3150" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H887 a12 12 0 0 1 12 12 V36 H1 Z" fill="#24253a"/>
+<circle cx="22" cy="18.5" r="6" fill="#ff5f56"/><circle cx="42" cy="18.5" r="6" fill="#ffbd2e"/><circle cx="62" cy="18.5" r="6" fill="#27c93f"/>
+<text x="450.0" y="23" text-anchor="middle" font-size="13" fill="#565f89">urvashi@github: ~ — zsh</text>
+<text x="24" y="68" font-size="15" xml:space="preserve"><tspan fill="#9ece6a">urvashi@github</tspan><tspan fill="#7dcfff"> ~ </tspan><tspan fill="#c0caf5">$ </tspan></text>
+<text class="k0" x="195.6" y="68" font-size="15" fill="#A78BFA">.</text>
+<text class="k1" x="204.6" y="68" font-size="15" fill="#A78BFA">/</text>
+<text class="k2" x="213.6" y="68" font-size="15" fill="#A78BFA">l</text>
+<text class="k3" x="222.7" y="68" font-size="15" fill="#A78BFA">i</text>
+<text class="k4" x="231.7" y="68" font-size="15" fill="#A78BFA">n</text>
+<text class="k5" x="240.7" y="68" font-size="15" fill="#A78BFA">k</text>
+<text class="k6" x="249.8" y="68" font-size="15" fill="#A78BFA">s</text>
+<text class="k7" x="258.8" y="68" font-size="15" fill="#A78BFA">.</text>
+<text class="k8" x="267.8" y="68" font-size="15" fill="#A78BFA">s</text>
+<text class="k9" x="276.8" y="68" font-size="15" fill="#A78BFA">h</text>
+<text class="k10" x="303.87" y="68" font-size="13" fill="#565f89"># find me around the internet ↓</text>
+<rect class="cur" x="289.87" y="55" width="8" height="16" fill="#c0caf5"/>
+</svg>

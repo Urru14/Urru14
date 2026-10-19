@@ -12,7 +12,7 @@
   <a href="https://orcid.org/0009-0009-8799-0409"><img src="https://img.shields.io/badge/ORCID-0009--0009--8799--0409-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
   <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Website-attackonscholar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-@AttackonScholar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Urru14&style=for-the-badge&color=2c5364&label=Profile+views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=555555&right_color=2c5364"/>
 </p>
 
 ---
@@ -68,10 +68,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urru14&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <!-- Contribution snake: appears once the snake workflow has run (see .github/workflows/snake.yml) -->

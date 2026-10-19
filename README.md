@@ -7,6 +7,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>
 </p>
@@ -14,7 +15,7 @@
 <!-- ========== ABOUT ========== -->
 ## 👩‍🔬 About me
 
-<img src="./terminal-whoami-v2.svg" width="100%" alt="whoami terminal"/>
+<img src="./terminal-whoami-v3.svg" width="100%" alt="whoami terminal"/>
 
 <!-- ========== RESEARCH ========== -->
 ## 🔬 What I work on

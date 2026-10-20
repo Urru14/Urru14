@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FUrru14&label=Profile%20views&labelColor=%23302b63&countColor=%23A78BFA&style=flat"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>
 </p>
 
 <!-- ========== ABOUT ========== -->

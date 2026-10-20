@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>
 </p>
@@ -111,11 +110,12 @@
 <img src="./terminal-links.svg" width="100%" alt="links terminal"/>
 
 <p align="center">
+  <a href="https://urru14.github.io"><img src="https://img.shields.io/badge/CV_Website-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/urvashi-urvashi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://orcid.org/0009-0009-8799-0409"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
   <a href="https://attackonscholar.com"><img src="https://img.shields.io/badge/Attack_on_Scholar-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.youtube.com/@AttackonScholar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:attackonscholar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:urruyadav@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- ========== FOOTER ========== -->

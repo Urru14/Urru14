@@ -89,7 +89,7 @@
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&hide_rank=true&v=2"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&hide_rank=true&v=3"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA&hide=gnuplot,postscript&v=2"/>
 </p>
 

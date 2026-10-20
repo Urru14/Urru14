@@ -60,9 +60,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧪 <a href="https://github.com/Urru14/lab-tools">lab-tools</a></h3>
-      <p>Streamlit app with a stoichiometry calculator and XRD plotting tool for solid-state synthesis.</p>
+      <p>Streamlit app with calculators and notes for materials synthesis, XRD, spectroscopy, impedance and battery work.</p>
+      <a href="https://lab-tools-hkr8yfe55hosfmqfjnobbk.streamlit.app"><img src="https://img.shields.io/badge/Open_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+      <a href="https://github.com/Urru14/lab-tools"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-      <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://attackonscholar.com">Attack on Scholar</a></h3>

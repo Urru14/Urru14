@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Urru14.Urru14&left_text=Profile%20views&left_color=302b63&right_color=A78BFA"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FUrru14&label=Profile%20views&labelColor=%23302b63&countColor=%23A78BFA&style=flat"/>
 </p>
 
 <!-- ========== ABOUT ========== -->
-## 👩‍🔬 About me
+## 💻 whoami
 
 <img src="./terminal-whoami-v3.svg" width="100%" alt="whoami terminal"/>
 
@@ -89,12 +89,12 @@
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&hide_rank=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA&hide=gnuplot,postscript"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urru14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&hide_rank=true&v=2"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urru14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA&hide=gnuplot,postscript&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <img src="https://streak-stats.demolab.com?user=Urru14&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&v=2"/>
 </p>
 
 <img src="./terminal-contributions.svg" width="100%" alt="contributions terminal"/>
